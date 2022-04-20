@@ -23,7 +23,7 @@
 
 <div align= "right">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maucomeco&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucartwo&show_icons=true&theme=tokyonight)
   
   ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
   
